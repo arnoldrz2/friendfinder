@@ -13,8 +13,8 @@ app.use(bodyParser.json());
 app.use(bodyParser.text());
 
 // Router
-require(path.join(__dirname, './app/routing/apiRoutes'))(app);
 require(path.join(__dirname, './app/routing/htmlRoutes'))(app);
+require(path.join(__dirname, './app/routing/apiRoutes'))(app);
 
 // Listener
 app.listen(PORT, function() {
