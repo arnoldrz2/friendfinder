@@ -2,7 +2,7 @@
 var friendsArray = [
         {
           "name":"Michael Scott",
-          "photo":"http://www.top5bin.com/wp-content/uploads/2013/04/Michael-in-Fun-Run-michael-scott-1534318-1212-682.jpg",
+          "photo":"https://i.imgur.com/nSv9Bd6.jpg",
           "scores":[
               5,
               3,
@@ -18,7 +18,7 @@ var friendsArray = [
         },
         {
           "name":"Pam Beesly",
-          "photo":"https://www.gannett-cdn.com/-mm-/27f6664fb8ef48299f06ee96e2d6771613497b2a/c=170-0-2830-2000&r=x404&c=534x401/local/-/media/2017/02/08/USATODAY/USATODAY/636221410316183057-A01-v2-REAR17.jpg",
+          "photo":"https://i.imgur.com/DAJKOCz.png",
           "scores":[
               3,
               4,
@@ -34,7 +34,7 @@ var friendsArray = [
         },
         {
           "name":"Jim Halpert",
-          "photo":"https://pbs.twimg.com/media/C_2DE1rV0AA7mOA.jpg",
+          "photo":"https://i.imgur.com/MARsREM.jpg",
           "scores":[
               5,
               3,
@@ -50,7 +50,7 @@ var friendsArray = [
         },
         {
         "name":"Dwight Schrute",
-        "photo":"https://az616578.vo.msecnd.net/files/2016/06/24/636023262738743231122108782_Dwight-Schrute-1.jpg",
+        "photo":"https://i.imgur.com/SGf33gR.png",
         "scores":[
             1,
             5,
@@ -66,7 +66,7 @@ var friendsArray = [
       },
       {
       "name":"Kelly Kapoor",
-      "photo":"https://vignette.wikia.nocookie.net/degrassi/images/4/4d/Kelly_kapoor.jpg/revision/latest?cb=20130630062809",
+      "photo":"https://i.imgur.com/9fqNxWX.jpg",
       "scores":[
           5,
           4,
